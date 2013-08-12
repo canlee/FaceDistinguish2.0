@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: com.invindible.facetime.ui.MainUI
+Class-Path: libs/jmf.properties libs/jmf.properties.orig 
+  libs/soundbank.gm 
+  libs/customizer.jar libs/jama-1.0.2.jar 
+  libs/jmf.jar libs/mediaplayer.jar 
+  libs/multiplayer.jar libs/ojdbc6_g.jar 
+  libs/ojdbc6.jar libs/ojdbc6dms_g.jar 
+  libs/ojdbc6dms.jar libs/sound.jar
